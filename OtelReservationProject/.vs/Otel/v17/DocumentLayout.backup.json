@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|c:\\users\\hp omen\\desktop\\otel - kopya - kopya (4) - kopya\\otel\\odalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|solutionrelative:otel\\odalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|c:\\users\\hp omen\\desktop\\otel - kopya - kopya (4) - kopya\\otel\\admingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|solutionrelative:otel\\admingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|c:\\users\\hp omen\\desktop\\otel - kopya - kopya (4) - kopya\\otel\\admingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|solutionrelative:otel\\admingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|c:\\users\\hp omen\\desktop\\otel - kopya - kopya (4) - kopya\\otel\\grafik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|solutionrelative:otel\\grafik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\otel\\grafik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|solutionrelative:otel\\grafik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|c:\\users\\hp omen\\desktop\\otel - kopya - kopya (4) - kopya\\otel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|solutionrelative:otel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|c:\\users\\hp omen\\desktop\\otel - kopya - kopya (4) - kopya\\otel\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|solutionrelative:otel\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\otel\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|solutionrelative:otel\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\otel\\odalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|solutionrelative:otel\\odalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|c:\\users\\hp omen\\desktop\\otel - kopya - kopya (4) - kopya\\otel\\yenimusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|solutionrelative:otel\\yenimusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|c:\\users\\hp omen\\desktop\\otel - kopya - kopya (4) - kopya\\otel\\musteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|solutionrelative:otel\\musteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\otel\\musteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|solutionrelative:otel\\musteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\otel\\yenimusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B505EC6E-BEF1-4BEE-A84C-672994E3B111}|Otel\\Otel.csproj|solutionrelative:otel\\yenimusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Grafik.cs",
+              "DocumentMoniker": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\Otel\\Grafik.cs",
+              "RelativeDocumentMoniker": "Otel\\Grafik.cs",
+              "ToolTip": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\Otel\\Grafik.cs",
+              "RelativeToolTip": "Otel\\Grafik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:09:10.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grafik.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\Otel\\Grafik.cs",
+              "RelativeDocumentMoniker": "Otel\\Grafik.cs",
+              "ToolTip": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (3)\\Otel\\Grafik.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\Otel - Kopya - Kopya (3)\\Otel\\Grafik.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:59:53.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\Otel\\AdminGiris.cs",
+              "RelativeDocumentMoniker": "Otel\\AdminGiris.cs",
+              "ToolTip": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\Otel\\AdminGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Otel\\AdminGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:38:15.488Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Odalar.cs",
+              "DocumentMoniker": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\Otel\\Odalar.cs",
+              "RelativeDocumentMoniker": "Otel\\Odalar.cs",
+              "ToolTip": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\Otel\\Odalar.cs",
+              "RelativeToolTip": "Otel\\Odalar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:37:49.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "YeniMusteri.cs",
+              "DocumentMoniker": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\Otel\\YeniMusteri.cs",
+              "RelativeDocumentMoniker": "Otel\\YeniMusteri.cs",
+              "ToolTip": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\Otel\\YeniMusteri.cs",
+              "RelativeToolTip": "Otel\\YeniMusteri.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:06:54.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Odalar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\Otel\\Odalar.cs",
+              "RelativeDocumentMoniker": "Otel\\Odalar.cs",
+              "ToolTip": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (3)\\Otel\\Odalar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\Otel - Kopya - Kopya (3)\\Otel\\Odalar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:12:10.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Musteriler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\Otel\\Musteriler.cs",
+              "RelativeDocumentMoniker": "Otel\\Musteriler.cs",
+              "ToolTip": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (3)\\Otel\\Musteriler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\Otel - Kopya - Kopya (3)\\Otel\\Musteriler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:38:15.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Musteriler.cs",
+              "DocumentMoniker": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\Otel\\Musteriler.cs",
+              "RelativeDocumentMoniker": "Otel\\Musteriler.cs",
+              "ToolTip": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\Otel\\Musteriler.cs",
+              "RelativeToolTip": "Otel\\Musteriler.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAuwM0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:08:07.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "YeniMusteri.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\Otel\\YeniMusteri.cs",
+              "RelativeDocumentMoniker": "Otel\\YeniMusteri.cs",
+              "ToolTip": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (3)\\Otel\\YeniMusteri.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\Otel - Kopya - Kopya (3)\\Otel\\YeniMusteri.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:59:39.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\Otel\\AnaForm.cs",
+              "RelativeDocumentMoniker": "Otel\\AnaForm.cs",
+              "ToolTip": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (3)\\Otel\\AnaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\Otel - Kopya - Kopya (3)\\Otel\\AnaForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:05:53.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\Otel\\AnaForm.cs",
+              "RelativeDocumentMoniker": "Otel\\AnaForm.cs",
+              "ToolTip": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\Otel\\AnaForm.cs",
+              "RelativeToolTip": "Otel\\AnaForm.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwC4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:21:26.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\Otel\\Program.cs",
+              "RelativeDocumentMoniker": "Otel\\Program.cs",
+              "ToolTip": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\Otel\\Program.cs",
+              "RelativeToolTip": "Otel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:36:52.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminGiris.cs",
+              "DocumentMoniker": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\Otel\\AdminGiris.cs",
+              "RelativeDocumentMoniker": "Otel\\AdminGiris.cs",
+              "ToolTip": "C:\\Users\\hp omen\\Desktop\\Otel - Kopya - Kopya (4) - Kopya\\Otel\\AdminGiris.cs",
+              "RelativeToolTip": "Otel\\AdminGiris.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:21:46.615Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

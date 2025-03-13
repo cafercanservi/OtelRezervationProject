@@ -1,0 +1,170 @@
+C:\Users\hp omen\source\repos\Otel\Otel\bin\Debug\net8.0-windows\Otel.exe
+C:\Users\hp omen\source\repos\Otel\Otel\bin\Debug\net8.0-windows\Otel.deps.json
+C:\Users\hp omen\source\repos\Otel\Otel\bin\Debug\net8.0-windows\Otel.runtimeconfig.json
+C:\Users\hp omen\source\repos\Otel\Otel\bin\Debug\net8.0-windows\Otel.dll
+C:\Users\hp omen\source\repos\Otel\Otel\bin\Debug\net8.0-windows\Otel.pdb
+C:\Users\hp omen\source\repos\Otel\Otel\obj\Debug\net8.0-windows\Otel.Properties.Resources.resources
+C:\Users\hp omen\source\repos\Otel\Otel\obj\Debug\net8.0-windows\Otel.csproj.GenerateResource.cache
+C:\Users\hp omen\source\repos\Otel\Otel\obj\Debug\net8.0-windows\Otel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp omen\source\repos\Otel\Otel\obj\Debug\net8.0-windows\Otel.AssemblyInfoInputs.cache
+C:\Users\hp omen\source\repos\Otel\Otel\obj\Debug\net8.0-windows\Otel.AssemblyInfo.cs
+C:\Users\hp omen\source\repos\Otel\Otel\obj\Debug\net8.0-windows\Otel.csproj.CoreCompileInputs.cache
+C:\Users\hp omen\source\repos\Otel\Otel\obj\Debug\net8.0-windows\Otel.dll
+C:\Users\hp omen\source\repos\Otel\Otel\obj\Debug\net8.0-windows\refint\Otel.dll
+C:\Users\hp omen\source\repos\Otel\Otel\obj\Debug\net8.0-windows\Otel.pdb
+C:\Users\hp omen\source\repos\Otel\Otel\obj\Debug\net8.0-windows\Otel.genruntimeconfig.cache
+C:\Users\hp omen\source\repos\Otel\Otel\obj\Debug\net8.0-windows\ref\Otel.dll
+C:\Users\hp omen\source\repos\Otel\Otel\obj\Debug\net8.0-windows\Otel.csproj.AssemblyReference.cache
+C:\Users\hp omen\source\repos\Otel\Otel\obj\Debug\net8.0-windows\Otel.AnaSayfa.resources
+C:\Users\hp omen\source\repos\Otel\Otel\obj\Debug\net8.0-windows\Otel.AdminGiris.resources
+C:\Users\hp omen\source\repos\Otel\Otel\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\hp omen\source\repos\Otel\Otel\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\hp omen\source\repos\Otel\Otel\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\hp omen\source\repos\Otel\Otel\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hp omen\source\repos\Otel\Otel\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\hp omen\source\repos\Otel\Otel\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hp omen\source\repos\Otel\Otel\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hp omen\source\repos\Otel\Otel\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hp omen\source\repos\Otel\Otel\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\hp omen\source\repos\Otel\Otel\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\hp omen\source\repos\Otel\Otel\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\hp omen\source\repos\Otel\Otel\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\hp omen\source\repos\Otel\Otel\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp omen\source\repos\Otel\Otel\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp omen\source\repos\Otel\Otel\obj\Debug\net8.0-windows\Otel.csproj.Up2Date
+C:\Users\hp omen\source\repos\Otel\Otel\obj\Debug\net8.0-windows\Otel.YeniMusteri.resources
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\bin\Debug\net8.0-windows\Otel.exe
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\bin\Debug\net8.0-windows\Otel.deps.json
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\bin\Debug\net8.0-windows\Otel.runtimeconfig.json
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\bin\Debug\net8.0-windows\Otel.dll
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\bin\Debug\net8.0-windows\Otel.pdb
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\obj\Debug\net8.0-windows\Otel.csproj.AssemblyReference.cache
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\obj\Debug\net8.0-windows\Otel.AdminGiris.resources
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\obj\Debug\net8.0-windows\Otel.AnaSayfa.resources
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\obj\Debug\net8.0-windows\Otel.Properties.Resources.resources
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\obj\Debug\net8.0-windows\Otel.YeniMusteri.resources
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\obj\Debug\net8.0-windows\Otel.csproj.GenerateResource.cache
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\obj\Debug\net8.0-windows\Otel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\obj\Debug\net8.0-windows\Otel.AssemblyInfoInputs.cache
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\obj\Debug\net8.0-windows\Otel.AssemblyInfo.cs
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\obj\Debug\net8.0-windows\Otel.csproj.CoreCompileInputs.cache
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\obj\Debug\net8.0-windows\Otel.csproj.Up2Date
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\obj\Debug\net8.0-windows\Otel.dll
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\obj\Debug\net8.0-windows\refint\Otel.dll
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\obj\Debug\net8.0-windows\Otel.pdb
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\obj\Debug\net8.0-windows\Otel.genruntimeconfig.cache
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\obj\Debug\net8.0-windows\ref\Otel.dll
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\obj\Debug\net8.0-windows\Otel.Odalar.resources
+C:\Users\hp omen\Desktop\Otel - Kopya\Otel\obj\Debug\net8.0-windows\Otel.Musteriler.resources
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\Otel.exe
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\Otel.deps.json
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\Otel.runtimeconfig.json
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\Otel.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\Otel.pdb
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\obj\Debug\net8.0-windows\Otel.csproj.AssemblyReference.cache
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\obj\Debug\net8.0-windows\Otel.AdminGiris.resources
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\obj\Debug\net8.0-windows\Otel.AnaSayfa.resources
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\obj\Debug\net8.0-windows\Otel.Musteriler.resources
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\obj\Debug\net8.0-windows\Otel.Odalar.resources
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\obj\Debug\net8.0-windows\Otel.Properties.Resources.resources
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\obj\Debug\net8.0-windows\Otel.YeniMusteri.resources
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\obj\Debug\net8.0-windows\Otel.csproj.GenerateResource.cache
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\obj\Debug\net8.0-windows\Otel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\obj\Debug\net8.0-windows\Otel.AssemblyInfoInputs.cache
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\obj\Debug\net8.0-windows\Otel.AssemblyInfo.cs
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\obj\Debug\net8.0-windows\Otel.csproj.CoreCompileInputs.cache
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\obj\Debug\net8.0-windows\Otel.csproj.Up2Date
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\obj\Debug\net8.0-windows\Otel.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\obj\Debug\net8.0-windows\refint\Otel.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\obj\Debug\net8.0-windows\Otel.pdb
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\obj\Debug\net8.0-windows\Otel.genruntimeconfig.cache
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\obj\Debug\net8.0-windows\ref\Otel.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\obj\Debug\net8.0-windows\Otel.Grafik.resources
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\MindFusion.Charting.WinForms.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\MindFusion.Charting.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\MindFusion.Common.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\MindFusion.Gauges.WinForms.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\MindFusion.Gauges.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\MindFusion.Licensing.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\MindFusion.Pdf.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\MindFusion.Scripting.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\MindFusion.Svg.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (3)\Otel\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\Otel.exe
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\Otel.deps.json
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\Otel.runtimeconfig.json
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\Otel.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\Otel.pdb
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\MindFusion.Charting.WinForms.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\MindFusion.Charting.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\MindFusion.Common.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\MindFusion.Gauges.WinForms.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\MindFusion.Gauges.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\MindFusion.Licensing.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\MindFusion.Pdf.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\MindFusion.Scripting.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\MindFusion.Svg.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\obj\Debug\net8.0-windows\Otel.csproj.AssemblyReference.cache
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\obj\Debug\net8.0-windows\Otel.AdminGiris.resources
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\obj\Debug\net8.0-windows\Otel.AnaSayfa.resources
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\obj\Debug\net8.0-windows\Otel.Grafik.resources
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\obj\Debug\net8.0-windows\Otel.Musteriler.resources
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\obj\Debug\net8.0-windows\Otel.Odalar.resources
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\obj\Debug\net8.0-windows\Otel.Properties.Resources.resources
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\obj\Debug\net8.0-windows\Otel.YeniMusteri.resources
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\obj\Debug\net8.0-windows\Otel.csproj.GenerateResource.cache
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\obj\Debug\net8.0-windows\Otel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\obj\Debug\net8.0-windows\Otel.AssemblyInfoInputs.cache
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\obj\Debug\net8.0-windows\Otel.AssemblyInfo.cs
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\obj\Debug\net8.0-windows\Otel.csproj.CoreCompileInputs.cache
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\obj\Debug\net8.0-windows\Otel.csproj.Up2Date
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\obj\Debug\net8.0-windows\Otel.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\obj\Debug\net8.0-windows\refint\Otel.dll
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\obj\Debug\net8.0-windows\Otel.pdb
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\obj\Debug\net8.0-windows\Otel.genruntimeconfig.cache
+C:\Users\hp omen\Desktop\Otel - Kopya - Kopya (4) - Kopya\Otel\obj\Debug\net8.0-windows\ref\Otel.dll
